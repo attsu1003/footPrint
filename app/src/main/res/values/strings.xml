@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">足跡カメラ</string>
+    <string name="action_settings">設定</string>
+
+    <!-- toolbarのタイトル-->
+    <string name="title_activity_edit">写真の編集</string>
+    <string name="title_activity_gallery">一覧</string>
+    <string name="title_activity_detail">詳細</string>
+
+    <!-- メニューアイテム-->
+    <string name="menu_item_share">シェア</string>
+    <string name="menu_item_ticker">テロップ</string>
+    <string name="menu_item_delete">削除</string>
+    <string name="menu_item_edit">編集</string>
+    <string name="menu_item_camera">撮影</string>
+
+    <!-- テロップ -->
+    <string name="check_map">場所は右下のボタンを押して地図で確認</string>
+
+    <!-- パーミッションの許可を求める理由 (AlertDialogで使う）-->
+    <string name="permission_request_title">許可が必要</string>
+    <string name="permission_request_message">許可がないと写真を撮ることができません。</string>
+    <string name="admit">許可する</string>
+    <string name="reject">許可しない</string>
+
+    <!-- トースト -->
+    <string name="cannot_go_any_further">残念ながらこれ以上先にすすめません。</string>
+    <string name="shoot_failed">撮影に失敗しました。もう一度やり直してください。</string>
+    <string name="location_get">位置情報が取得できました。</string>
+    <string name="location_not_set">位置情報取得中です。しばらくお待ち下さい。</string>
+    <string name="photo_info_written">写真の情報が登録されました。</string>
+    <string name="photo_info_deleted">写真の情報が削除されました。</string>
+
+    <!--画像のシェア -->
+    <string name="share_photo">この画像を共有する</string>
+
+
+
+</resources>
